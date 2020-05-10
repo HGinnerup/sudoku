@@ -1,0 +1,7 @@
+Make clusters for any related cells
+    Every 3x3 is a cluster
+    Every row is a cluster
+    Every column is a cluster
+
+Make a maingrid, make clusters be lists linking to main
+Make maingrid cells pointing up, down, right and left - Quadrubly linked lists
